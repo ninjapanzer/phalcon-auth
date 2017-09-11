@@ -1,0 +1,18 @@
+/Users/paulscoder/personalrepos/phalcon_auth/phalconauth/ext/phalconauth/token/jwt.zep.c:28:4: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+ * Phalconauth\Token JSON Web Token implementation
+   ^
+/Users/paulscoder/personalrepos/phalcon_auth/phalconauth/ext/phalconauth/token/jwt.zep.c:28:15: error: expected ';' after top level declarator
+ * Phalconauth\Token JSON Web Token implementation
+              ^
+              ;
+1 warning and 1 error generated.
+make: *** [phalconauth/token/jwt.lo] Error 1
+/Users/paulscoder/personalrepos/phalcon_auth/phalconauth/ext/phalconauth/token/jwt.zep.c:28:4: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+ * Phalconauth\Token JSON Web Token implementation
+   ^
+/Users/paulscoder/personalrepos/phalcon_auth/phalconauth/ext/phalconauth/token/jwt.zep.c:28:15: error: expected ';' after top level declarator
+ * Phalconauth\Token JSON Web Token implementation
+              ^
+              ;
+1 warning and 1 error generated.
+make: *** [phalconauth/token/jwt.lo] Error 1

@@ -1,6 +1,6 @@
 namespace PhalconAuth\Token;
 
-/*
+/**
  * Phalconauth\Token JSON Web Token implementation
  *
  * Minimum implementation used by Realtime auth, based on this spec:
