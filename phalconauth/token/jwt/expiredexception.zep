@@ -1,3 +1,3 @@
-namespace PhalconAuth\Token\JWT;
+namespace PhalconAuth\Token\Jwt;
 
 class ExpiredException extends \UnexpectedValueException {}
